@@ -1,0 +1,3 @@
+Se creo el primer commit con la creacion del archivo
+
+Segundo comit sera de introduccion los primeros textos y cambio de usuario con git config --global user.name "Julian"
